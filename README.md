@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nsralla</h1>
-<img style={border-radius:'2px'} align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ211N3RxbGxjNzdwZ2VqZzVicmkwbnJxazlsdHdzcm5jeHk4czdlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsralla&label=Profile%20views&color=0e75b6&style=flat" alt="nsralla" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nsralla" alt="nsralla" /></a> </p>
 
