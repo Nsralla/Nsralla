@@ -5,7 +5,7 @@
 - 📫 How to reach me **nsrhassan22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ211N3RxbGxjNzdwZ2VqZzVicmkwbnJxazlsdHdzcm5jeHk4czdlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+<img style={border-radius:'2px'} align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ211N3RxbGxjNzdwZ2VqZzVicmkwbnJxazlsdHdzcm5jeHk4czdlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 <p align="left">
 <a href="https://www.linkedin.com/in/nsr-hassan-3aa70b226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nsr hassan" height="30" width="40" /></a>
 </p>
