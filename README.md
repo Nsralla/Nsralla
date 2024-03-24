@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nsralla</h1>
+![Alt text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTgzbjYxdXAwOHA3eHNlbzA4OWJhNTIyZ3h0eGgyZnowdnlnNG40ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nsralla&label=Profile%20views&color=0e75b6&style=flat" alt="nsralla" /> </p>
 
